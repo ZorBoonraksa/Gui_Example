@@ -1,0 +1,15 @@
+D:\BornToDev\CS_course\BorntoDevHW\BorntoDevHW\bin\Debug\BorntoDevHW.exe.config
+D:\BornToDev\CS_course\BorntoDevHW\BorntoDevHW\bin\Debug\BorntoDevHW.exe
+D:\BornToDev\CS_course\BorntoDevHW\BorntoDevHW\bin\Debug\BorntoDevHW.pdb
+D:\BornToDev\CS_course\BorntoDevHW\BorntoDevHW\obj\Debug\BorntoDevHW.csproj.AssemblyReference.cache
+D:\BornToDev\CS_course\BorntoDevHW\BorntoDevHW\obj\Debug\MainWindow.g.cs
+D:\BornToDev\CS_course\BorntoDevHW\BorntoDevHW\obj\Debug\App.g.cs
+D:\BornToDev\CS_course\BorntoDevHW\BorntoDevHW\obj\Debug\BorntoDevHW_MarkupCompile.cache
+D:\BornToDev\CS_course\BorntoDevHW\BorntoDevHW\obj\Debug\BorntoDevHW_MarkupCompile.lref
+D:\BornToDev\CS_course\BorntoDevHW\BorntoDevHW\obj\Debug\MainWindow.baml
+D:\BornToDev\CS_course\BorntoDevHW\BorntoDevHW\obj\Debug\BorntoDevHW.g.resources
+D:\BornToDev\CS_course\BorntoDevHW\BorntoDevHW\obj\Debug\BorntoDevHW.Properties.Resources.resources
+D:\BornToDev\CS_course\BorntoDevHW\BorntoDevHW\obj\Debug\BorntoDevHW.csproj.GenerateResource.cache
+D:\BornToDev\CS_course\BorntoDevHW\BorntoDevHW\obj\Debug\BorntoDevHW.csproj.CoreCompileInputs.cache
+D:\BornToDev\CS_course\BorntoDevHW\BorntoDevHW\obj\Debug\BorntoDevHW.exe
+D:\BornToDev\CS_course\BorntoDevHW\BorntoDevHW\obj\Debug\BorntoDevHW.pdb
